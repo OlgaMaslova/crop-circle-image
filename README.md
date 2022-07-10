@@ -1,0 +1,1 @@
+This is a small script that crops a circle out of an input image and saves it (with parameters given form the front-end panzoom container).
